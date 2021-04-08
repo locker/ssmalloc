@@ -1,0 +1,3 @@
+ssmalloc_test
+*.a
+*.o
